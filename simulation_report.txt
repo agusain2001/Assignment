@@ -1,0 +1,17 @@
+Moving Average Crossover Strategy Simulation Report
+==================================================
+Data File: historical_data.csv
+Short Window: 10, Long Window: 30
+Initial Capital: $10000.00
+
+Trade Log:
+----------
+2023-01-18: BUY 73.0 shares @ 135.21, Cost: 9870.33, Capital: 129.67
+2023-03-03: SELL 73.0 shares @ 151.03, Revenue: 11025.19, Capital: 11154.86
+2023-03-15: BUY 72.0 shares @ 152.99, Cost: 11015.28, Capital: 139.58
+
+Performance Summary:
+--------------------
+Final Portfolio Value: $14105.42
+Total Profit/Loss: $4105.42
+Total Return: 41.05%
