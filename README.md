@@ -1,5 +1,5 @@
 
-# Internship Assignment Submission
+# Assignment Submission
 
 ## Objective
 
